@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @Nneoma00
 - I’m a Technical Writer and Python Developer.
 - My interests:
-    1. Project/Product/API Documentation 
+    1. Project/Product Documentation 
     2. Python Web Development Projects
     3. Open Source Contribution
     4. API Documentation
