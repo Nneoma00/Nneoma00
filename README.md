@@ -1,8 +1,24 @@
 - 👋 Hi, I’m @Nneoma00
-- 👀 I’m interested in API Documentation.
-- 🌱 I’m currently learning JSON and XML Documentation.
-- 💞️ I’m looking to collaborate on projects in need of API Documentation.
-- 📫 How to reach me uchenneoma18@gmail.com.
+- I’m a Technical Writer and Python Developer.
+- My interests:
+    1. Project/Product/API Documentation 
+    2. Python Web Development Projects
+    3. Open Source Contribution
+    4. API Documentation
+
+- Tech Stack:
+    * Markdown
+    * AsciiDocs
+    * Postman
+    * Swagger
+    * DITA
+    * reStructuredText
+    * Netlify
+    * VS Code
+    * Confluence
+    * Notion
+
+- 📫 Contact me uchenneoma18@gmail.com.
 
 <!---
 Nneoma00/Nneoma00 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
