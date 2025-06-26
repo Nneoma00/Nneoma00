@@ -18,7 +18,7 @@
     * Confluence
     * Notion
 
-- 📫 Contact me uchenneoma18@gmail.com.
+- 📫 Contact me nneoma.docs@gmail.com.
 
 <!---
 Nneoma00/Nneoma00 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
