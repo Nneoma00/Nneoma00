@@ -1,26 +1,20 @@
-- 👋 Hi, I’m @Nneoma00
-- I’m a Technical Writer and Python Developer.
-- My interests:
-    1. Project/Product Documentation 
-    2. Python Web Development Projects
-    3. Open Source Contribution
-    4. API Documentation
+### 👋 Hi, I’m Nneoma Uche. Most folk just call me Uche.
 
-- Tech Stack:
-    * Markdown
-    * AsciiDocs
-    * Postman
-    * Swagger
-    * DITA
-    * reStructuredText
-    * Netlify
-    * VS Code
-    * Confluence
-    * Notion
+I'm a backend developer focused on building scalable APIs and server-side systems. 
+I work primarily with Python, designing clean architectures that power 
+reliable, production-ready applications. I also build lightweight UIs using HTML, 
+CSS, and JavaScript to demonstrate and validate the functionality of the systems 
+I build on the backend. 
 
-- 📫 Contact me nneoma.docs@gmail.com.
+I enjoy integrating AI and machine learning capabilities into backend systems — 
+from LLM-powered features to intelligent automation pipelines.
 
-<!---
-Nneoma00/Nneoma00 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+**What I work with:**
+- Backend: Python, Django, FastAPI
+- Databases: PostgreSQL, MongoDB
+- AI/ML: OpenAI API, Gemini, LangChain, vector databases
+- Tools: Docker, REST APIs, Git
+
+I also write technical content for developer tools and agencies, breaking down 
+complex concepts into clear, actionable guides for developer audiences.
+📝 My writing has been published in [**freeCodeCamp**](https://www.freecodecamp.org/news/author/Nene23/) and [**Forbes Advisor**](https://www.forbes.com/advisor/author/nneoma-uche/).
